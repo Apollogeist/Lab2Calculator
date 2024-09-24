@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2Calculator</string>
+    <string name="calculator_title">Calculator</string>
+    <string name="hint_first_number">First number</string>
+    <string name="hint_second_number">Second number</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_times">*</string>
+    <string name="button_divide">/</string>
+    <string name="calculation_result">Result: %1$.2f</string>
+</resources>
